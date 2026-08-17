@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+uploads/*
+!uploads/.gitkeep
+
+screening_results.db
+
+.env
+.vscode/
